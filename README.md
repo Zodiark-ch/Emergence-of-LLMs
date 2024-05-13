@@ -1,6 +1,6 @@
 
 ## README
-Emergence In LLMs 
+Emergence In LLMs (paper reference would come soon)
 ### Preparations
 Datasets of OpenOrca and OpenHermes can be created by create_context_dataset.py 
 Datasets for country, animal, and color categories exist in data\ 
